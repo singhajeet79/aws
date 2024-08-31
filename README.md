@@ -3,7 +3,7 @@
 Testing Fargate Service with AWS Batch for S3 Object Copying. \
 Objective:\
 \
- To test the functionality of AWS Batch with Fargate compute environment for copying S3 objects from a source bucket\   to a destination bucket.\
+ To test the functionality of AWS Batch with Fargate compute environment for copying S3 objects from a source bucket    to a destination bucket.\
 \
 Methodology:\
 \
