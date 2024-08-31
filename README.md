@@ -1,4 +1,4 @@
-### AWS Batch with managed Forgate service: Fargate Service with AWS Batch for S3 Object Copying
+### Fargate Service with AWS Batch for S3 Object Copying
 \
 Leveraging the serverless capabilities of AWS Batch with Fargate compute environment, we efficiently executed a task to copy S3 objects from a source bucket to a destination bucket.\
 \
